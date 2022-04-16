@@ -1,5 +1,20 @@
 <application>
   <component name="fastRequest">
+    <option name="dataList">
+      <list>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="http://www.baidu.com" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="curd" />
+        </NameGroup>
+      </list>
+    </option>
     <option name="defaultDataMappingList">
       <list>
         <DataMapping>
@@ -72,10 +87,40 @@
         </DataMapping>
       </list>
     </option>
+    <option name="domain" value="http://www.baidu.com" />
+    <option name="enableEnv" value="dev" />
+    <option name="enableProject" value="curd" />
+    <option name="envList">
+      <list>
+        <option value="dev" />
+      </list>
+    </option>
+    <option name="headerGroupList">
+      <list>
+        <HeaderGroup>
+          <option name="envMap">
+            <map>
+              <entry key="dev">
+                <value>
+                  <map />
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="projectName" value="curd" />
+        </HeaderGroup>
+      </list>
+    </option>
     <option name="paramGroup">
       <ParamGroup>
         <option name="originUrl" value="" />
+        <option name="url" value="" />
       </ParamGroup>
+    </option>
+    <option name="projectList">
+      <list>
+        <option value="curd" />
+      </list>
     </option>
     <option name="randomStringLength" value="5" />
   </component>
