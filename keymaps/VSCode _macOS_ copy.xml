@@ -8,6 +8,9 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift meta alt b" />
+  </action>
   <action id="EditorIndentLineOrSelection" />
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="shift tab" />

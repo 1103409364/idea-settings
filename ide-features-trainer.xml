@@ -6,7 +6,7 @@
     <option name="map">
       <map>
         <entry key="actions" value="NOT_PASSED" />
-        <entry key="basic completion" value="NOT_PASSED" />
+        <entry key="basic completion" value="PASSED" />
         <entry key="codeassistance.codeformatting" value="NOT_PASSED" />
         <entry key="codeassistance.editorcodingassistance" value="NOT_PASSED" />
         <entry key="codeassistance.localhistory" value="NOT_PASSED" />
@@ -35,13 +35,13 @@
         <entry key="java.run.configuration" value="NOT_PASSED" />
         <entry key="move" value="NOT_PASSED" />
         <entry key="multiple selections" value="NOT_PASSED" />
-        <entry key="postfix completion" value="NOT_PASSED" />
+        <entry key="postfix completion" value="PASSED" />
         <entry key="recent files and locations" value="NOT_PASSED" />
         <entry key="refactorings.extractmethod" value="NOT_PASSED" />
         <entry key="refactorings.rename" value="NOT_PASSED" />
         <entry key="search everywhere" value="NOT_PASSED" />
         <entry key="select" value="NOT_PASSED" />
-        <entry key="smart type completion" value="NOT_PASSED" />
+        <entry key="smart type completion" value="PASSED" />
         <entry key="statement completion" value="NOT_PASSED" />
         <entry key="surround and unwrap" value="NOT_PASSED" />
       </map>

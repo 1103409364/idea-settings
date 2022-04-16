@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="2461" />
     <option name="newTranslationDialogY" value="61" />
     <histories>
+      <item value="request" />
+      <item value="console" />
       <item value="Element 'base-font-size-default' is resolved only by name without use of explicit imports " />
       <item value="&#10;Local variable 'i' is redundant &#10;" />
       <item value="&#10;Local variable 'i' is redundant " />
@@ -27,6 +29,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
